@@ -1,0 +1,17 @@
+output_dir: ./
+
+# Images
+xcassets:
+  inputs:
+    - ./Assets.xcassets
+  outputs:
+  - templateName: swift4
+    output: ../Constants/Images.swift
+
+# Localizable
+strings:
+  inputs: ./Localizable.strings
+  outputs:
+  - templateName: structured-swift5
+    output: ../Constants/Strings.swift
+

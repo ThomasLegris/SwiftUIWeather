@@ -1,0 +1,12 @@
+
+/**
+ * Localization.
+*/
+
+"dash" = "-";
+"commonOk" = "Ok";
+"commonError" = "Error occured";
+"errorUnknownCity" = "Unknown city";
+"errorNoInternet" = "No Internet";
+"errorNoInfo" = "Can't update weather info";
+"enterCity" = "Enter City name";
